@@ -6,5 +6,5 @@ falafel
 hummus
 roasted lamb
 * aocado
-* lemon
+* lime
 ## instructions
