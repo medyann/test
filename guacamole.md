@@ -8,4 +8,4 @@ roasted lamb
 * aocado
 * lime
 ## instructions
-put avocado into a bowl
+* put three avocado into a bowl
