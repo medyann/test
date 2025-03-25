@@ -1,4 +1,2 @@
 *.jpg
 receipts/plots/
-**/*.csv
-!*.csv
